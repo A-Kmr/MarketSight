@@ -44,7 +44,7 @@ Built with **Streamlit** and **Scikit-Learn**, this tool bridges the gap between
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/A-Kmr/market-sight.git](https://github.com/A-Kmr/market-sight.git)
+    git clone [[https://github.com/A-Kmr/market-sight.git](https://github.com/A-Kmr/MarketSight)]
     cd market-sight
     ```
 
