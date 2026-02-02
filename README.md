@@ -1,4 +1,3 @@
-# Interactive-Stock-Market-Forecasting
 # 📈 MarketSight: Stock Forecasting & Analytics Engine
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -44,7 +43,7 @@ Built with **Streamlit** and **Scikit-Learn**, this tool bridges the gap between
 
 1.  **Clone the Repository**
     ```bash
-    git clone [[https://github.com/A-Kmr/market-sight.git](https://github.com/A-Kmr/MarketSight)]
+    git clone https://github.com/A-Kmr/MarketSight.git
     cd market-sight
     ```
 
