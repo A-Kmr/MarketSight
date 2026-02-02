@@ -57,7 +57,7 @@ Built with **Streamlit** and **Scikit-Learn**, this tool bridges the gap between
 3.  **Run the Application**
     Launch the dashboard in your local browser:
     ```bash
-    streamlit run app.py
+    Stock_forecast.py
     ```
 
 ---
@@ -86,6 +86,3 @@ The forecasting engine follows a strict data pipeline to ensure reliability:
 Contributions, issues, and feature requests are welcome!
 *Created by Anirudh Kumar Pentapati | [LinkedIn](https://www.linkedin.com/in/anirudhkumar98)*
 
----
-
-*Created by Anirudh Kumar Pentapati | [LinkedIn](https://www.linkedin.com/in/anirudhkumar98)*
